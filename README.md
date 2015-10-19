@@ -23,3 +23,5 @@ Changelogs :
       - Tabel master pasien
       - Fitur untuk tambah, hapus, edit database (CRUD)
       - Menampilkan data dari database
+
+Reserved.
